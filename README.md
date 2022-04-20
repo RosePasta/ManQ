@@ -12,3 +12,7 @@ The generated queries can be downloaded on..
 https://drive.google.com/open?id=1wgClkGb_NNFWll7EXFVnGr2IAwHXVBo6
 
 (The project will be updated after empirical analysis as soon as possible.)
+
+# Contributor
+  - Misoo Kim (misoo12@skku.edu, hanul1546@gmail.com)
+  - Eunseok Lee (leees@skku.edu)
